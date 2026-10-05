@@ -36,6 +36,6 @@ I learn by shipping hardware that actually runs.
 
 ## Open to
 
-Embedded / IoT internships — firmware, sensor integration, bring-up, and the small web UIs that debug them.
+Embedded / IoT work — firmware, sensor integration, bring-up, and the small web UIs that debug them.
 
 All my public work is reproducible: one-liner installs, real READMEs, no "works on my machine".
