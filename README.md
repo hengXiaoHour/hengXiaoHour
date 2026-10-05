@@ -1,10 +1,10 @@
-# Hi, I'm Heng Hour 👋
+# Hi, I'm Heng Hour
 
 Year-3 student in Phnom Penh, building **ESP32 / Embedded / IoT** projects — firmware, sensors, real-time control, and the web dashboards that talk to them.
 
 I learn by shipping hardware that actually runs.
 
-## 🔥 Featured
+## Featured
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -13,7 +13,7 @@ I learn by shipping hardware that actually runs.
 | [easyeda-mcp-pro](https://github.com/hengXiaoHour/easyeda-mcp-pro) | MCP server for EasyEDA Pro: PCB inspection, BOM sourcing, manufacturing export | TypeScript, EasyEDA, MCP |
 | [3D-Design-With-AI](https://github.com/hengXiaoHour/3D-Design-With-AI) | AI-controlled 3D modeling in FreeCAD + Blender via MCP, one-liner installs | Python, FreeCAD, Blender |
 
-## 🛠️ Stack
+## Stack
 
 ![ESP32](https://img.shields.io/badge/ESP32-firmware-black)
 ![Arduino](https://img.shields.io/badge/Arduino-C%2B%2B-black)
@@ -30,14 +30,14 @@ I learn by shipping hardware that actually runs.
 - **Software:** Python, Streamlit, Flask, Firebase REST, GitHub Actions/Releases
 - **Hardware workflow:** EasyEDA (schematic + PCB), FreeCAD + Blender (enclosures), Bambu Studio, Linux tooling
 
-## 📌 More
+## More
 
 - [Project-DSA-II](https://github.com/hengXiaoHour/Project-DSA-II) — RUPP campus graph navigator (Dijkstra/BFS/DFS + Flask + Leaflet)
 - [PP-Year3](https://github.com/hengXiaoHour/PP-Year3) — Streamlit student-risk dashboard (school lab)
 - [tsa-course](https://github.com/hengXiaoHour/tsa-course) — time-series baselines in notebooks
 - [arduino-ide-linux-setup](https://github.com/hengXiaoHour/arduino-ide-linux-setup) / [setup-window-on-linux](https://github.com/hengXiaoHour/setup-window-on-linux) / [deskflow-dual-laptop](https://github.com/hengXiaoHour/deskflow-dual-laptop) — Linux setup notes I actually use
 
-## 🎯 Open to
+## Open to
 
 Embedded / IoT internships — firmware, sensor integration, bring-up, and the small web UIs that debug them.
 
