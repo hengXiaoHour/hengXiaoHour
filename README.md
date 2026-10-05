@@ -10,8 +10,8 @@ I learn by shipping hardware that actually runs.
 |---|---|---|
 | [balancing-robot](https://github.com/hengXiaoHour/balancing-robot) | Self-balancing 2-wheel robot — dual PID @ 1 kHz, IMU fusion, Web UI + ESP-NOW joystick, all config in NVS via serial CLI | ESP32-C3, C++, MPU6050/6500, WebSocket, NVS |
 | [cloud-ota](https://github.com/hengXiaoHour/cloud-ota) | ESP32 self-updates `firmware.bin` from GitHub Releases — no server | ESP32, arduino-cli, GitHub Releases |
-| [easyeda-mcp-pro](https://github.com/hengXiaoHour/easyeda-mcp-pro) | MCP server for EasyEDA Pro: PCB inspection, BOM sourcing, manufacturing export | TypeScript, EasyEDA, MCP |
-| [3D-Design-With-AI](https://github.com/hengXiaoHour/3D-Design-With-AI) | AI-controlled 3D modeling in FreeCAD + Blender via MCP, one-liner installs | Python, FreeCAD, Blender |
+| Esp32_Quad (private repo — walkthrough on request) | Quadcopter flight controller — cascade PID, attitude filters, ESP-NOW RC, Arduino CLI config | ESP32, C, ESP-NOW, PID |
+| esp32-electricity-counter (private repo — walkthrough on request) | 5-channel energy monitor — STA-first WiFi with AP fallback, cloud push, remote dashboard | ESP32/S3, C++, Firebase, Web UI |
 
 ## Stack
 
@@ -36,6 +36,8 @@ I learn by shipping hardware that actually runs.
 - [PP-Year3](https://github.com/hengXiaoHour/PP-Year3) — Streamlit student-risk dashboard (school lab)
 - [tsa-course](https://github.com/hengXiaoHour/tsa-course) — time-series baselines in notebooks
 - [arduino-ide-linux-setup](https://github.com/hengXiaoHour/arduino-ide-linux-setup) / [setup-window-on-linux](https://github.com/hengXiaoHour/setup-window-on-linux) / [deskflow-dual-laptop](https://github.com/hengXiaoHour/deskflow-dual-laptop) — Linux setup notes I actually use
+- [easyeda-mcp-pro](https://github.com/hengXiaoHour/easyeda-mcp-pro) — MCP server for EasyEDA Pro (PCB inspection, BOM, manufacturing export)
+- [3D-Design-With-AI](https://github.com/hengXiaoHour/3D-Design-With-AI) — AI-controlled 3D modeling in FreeCAD + Blender via MCP
 
 ## Open to
 
