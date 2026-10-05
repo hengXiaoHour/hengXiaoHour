@@ -4,15 +4,6 @@ Year-3 student in Phnom Penh, building **ESP32 / Embedded / IoT** projects — f
 
 I learn by shipping hardware that actually runs.
 
-## Featured
-
-| Project | What it is | Stack |
-|---|---|---|
-| [balancing-robot](https://github.com/hengXiaoHour/balancing-robot) | Self-balancing 2-wheel robot — dual PID @ 1 kHz, IMU fusion, Web UI + ESP-NOW joystick, all config in NVS via serial CLI | ESP32-C3, C++, MPU6050/6500, WebSocket, NVS |
-| [cloud-ota](https://github.com/hengXiaoHour/cloud-ota) | ESP32 self-updates `firmware.bin` from GitHub Releases — no server | ESP32, arduino-cli, GitHub Releases |
-| Esp32_Quad (private repo — walkthrough on request) | Quadcopter flight controller — cascade PID, attitude filters, ESP-NOW RC, Arduino CLI config | ESP32, C, ESP-NOW, PID |
-| esp32-electricity-counter (private repo — walkthrough on request) | 5-channel energy monitor — STA-first WiFi with AP fallback, cloud push, remote dashboard | ESP32/S3, C++, Firebase, Web UI |
-
 ## Stack
 
 ![ESP32](https://img.shields.io/badge/ESP32-firmware-black)
@@ -30,8 +21,12 @@ I learn by shipping hardware that actually runs.
 - **Software:** Python, Streamlit, Flask, Firebase REST, GitHub Actions/Releases
 - **Hardware workflow:** EasyEDA (schematic + PCB), FreeCAD + Blender (enclosures), Bambu Studio, Linux tooling
 
-## More
+## Projects
 
+- [balancing-robot](https://github.com/hengXiaoHour/balancing-robot) — self-balancing 2-wheel robot (ESP32-C3, PID @ 1 kHz, Web UI, ESP-NOW)
+- [cloud-ota](https://github.com/hengXiaoHour/cloud-ota) — ESP32 self-updates from GitHub Releases, no server
+- Esp32_Quad (private, walkthrough on request) — quadcopter flight controller (cascade PID, ESP-NOW RC)
+- esp32-electricity-counter (private, walkthrough on request) — 5-channel energy monitor with cloud dashboard
 - [Project-DSA-II](https://github.com/hengXiaoHour/Project-DSA-II) — RUPP campus graph navigator (Dijkstra/BFS/DFS + Flask + Leaflet)
 - [PP-Year3](https://github.com/hengXiaoHour/PP-Year3) — Streamlit student-risk dashboard (school lab)
 - [tsa-course](https://github.com/hengXiaoHour/tsa-course) — time-series baselines in notebooks
